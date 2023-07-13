@@ -1,4 +1,4 @@
-### Hi there friends👋
+### Hey there, I am Vedant Panda, great to see you here👋
 
 <!--
 **VedantPanda/VedantPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
